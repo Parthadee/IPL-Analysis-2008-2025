@@ -2,7 +2,7 @@
 
 This project showcases an interactive Power BI dashboard analyzing 18 seasons of the Indian Premier League (IPL), from 2008 to 2025. It highlights team performance, player statistics, match trends, and season insights using dynamic visuals and DAX-driven calculations.
 
-![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
+<img src= "https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png" alt="Data Model View" width="1000"/>
 
 ## 📌 Project Overview
 
@@ -55,7 +55,7 @@ This project showcases an interactive Power BI dashboard analyzing 18 seasons of
 
 ## 🎥 Live Demo
 
-![Dashboard Demo](https://github.com/Parthadee/IPL-Analysis-2008-2025/blob/5b857aa8016559272f8f1b4805566b3c61098227/IPLAnalysis2008-2025-ezgif.com-video-to-gif-converter.gif)
+<img src="https://raw.githubusercontent.com/Parthadee/IPL-Analysis-2008-2025/5b857aa8016559272f8f1b4805566b3c61098227/IPLAnalysis2008-2025-ezgif.com-video-to-gif-converter.gif" alt="Dashboard Demo" width="1000"/>
 
 ## 🚀 Getting Started
 
