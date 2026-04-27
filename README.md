@@ -72,7 +72,12 @@ To explore the dashboard:
 - Writing DAX measures and calculated columns  
 - Designing interactive dashboards  
 - Data storytelling in sports analytics  
-- Handling large datasets and optimizing performance  
+- Handling large datasets and optimizing performance
+
+## 🧩 Data Model View
+
+<img src="https://github.com/Parthadee/IPL-Analysis-2008-2025/blob/9ced9666e33945b6156f75272d273a35a16066a5/Model%20View.png" alt="Data Model View" width="1000"/>
+
 
 ## 🏁 Future Improvements
 
