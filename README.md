@@ -55,9 +55,7 @@ This project showcases an interactive Power BI dashboard analyzing 18 seasons of
 
 ## 🎥 Live Demo
 
-Watch the video below to understand how the dashboard works and how to interact with different visuals and filters. 
-
-[▶ Watch Dashboard Demo](https://github.com/Parthadee/IPL-Analysis-2008-2025/blob/5f1c47fca94ff7504b8075783a58bbc1019add75/IPL%20Analysis%20(2008-2025).mp4)
+![Dashboard Demo](https://github.com/Parthadee/IPL-Analysis-2008-2025/blob/main/your-gif-file.gif)
 
 ## 🚀 Getting Started
 
