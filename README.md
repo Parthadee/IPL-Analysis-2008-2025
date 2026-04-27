@@ -1,18 +1,18 @@
-![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
-
 # 🏏 IPL Analysis Dashboard (2008–2025) 📊
 
-This project presents a comprehensive Power BI dashboard that explores 18 seasons of the Indian Premier League (IPL), from 2008 to 2025. It offers rich insights into team performances, player statistics, match trends, and season highlights using interactive visuals and DAX-driven metrics.
+This project showcases an interactive Power BI dashboard analyzing 18 seasons of the Indian Premier League (IPL), from 2008 to 2025. It highlights team performance, player statistics, match trends, and season insights using dynamic visuals and DAX-driven calculations.
+
+![Sample Image](https://github.com/AKHILESHsingh1/IPL-data-Analysis/blob/main/IPL%20Data%20Analysis%20Snapshot.png)
 
 ## 📌 Project Overview
 
-- **Tool Used**: Power BI Desktop
-- **Tech Stack**: Power BI | DAX | Data Modeling | Data Cleaning
-- **Data Sources**: 
-  - `ball_by_ball_data.csv`
-  - `ipl_matches_data.csv`
-  - `players-data-updated.csv`
-  - `teams_data.csv`
+- **Tool Used**: Power BI Desktop  
+- **Tech Stack**: Power BI | DAX | Data Modeling | Data Cleaning  
+- **Data Sources**:  
+  - `ball_by_ball_data.csv`  
+  - `ipl_matches_data.csv`  
+  - `players-data-updated.csv`  
+  - `teams_data.csv`  
 
 ## 🔍 Key Features & Insights
 
@@ -30,52 +30,54 @@ This project presents a comprehensive Power BI dashboard that explores 18 season
 - **Half-Centuries**: 143  
 
 ### 🎯 Player Highlights
-| Category         | Player               | Team               | Stats        |
-|------------------|----------------------|--------------------|--------------|
-| Orange Cap       | B Sai Sudharsan      | Gujarat Titans     | 759 Runs     |
-| Purple Cap       | M Prasidh Krishna    | Gujarat Titans     | 26 Wickets   |
-| Most 6s          | Nicholas Pooran      | Lucknow Super Giants | 40 Sixes   |
-| Most 4s          | B Sai Sudharsan      | Gujarat Titans     | 88 Fours     |
+
+| Category   | Player            | Team                 | Stats      |
+|------------|------------------|----------------------|------------|
+| Orange Cap | B Sai Sudharsan  | Gujarat Titans       | 759 Runs   |
+| Purple Cap | M Prasidh Krishna| Gujarat Titans       | 26 Wickets |
+| Most 6s    | Nicholas Pooran  | Lucknow Super Giants | 40 Sixes   |
+| Most 4s    | B Sai Sudharsan  | Gujarat Titans       | 88 Fours   |
 
 ### 🏏 Team Performance (2025)
 
-| Team                    | Total 6s | Total 4s | Total Runs |
-|-------------------------|----------|----------|-------------|
-| Royal Challengers Bangalore | 187      | 357      | 3975        |
-| Punjab Kings               | 196      | 314      | 3670        |
-| Gujarat Titans             | 137      | 287      | 3256        |
-| Mumbai Indians             | 151      | 269      | 3052        |
-| Sunrisers Hyderabad        | 142      | 225      | 2606        |
-| Delhi Capitals             | 125      | 201      | 2556        |
-| Lucknow Super Giants       | 116      | 208      | 2410        |
-| Kolkata Knight Riders      | 81       | 132      | 1639        |
-| Rajasthan Royals           | 77       | 121      | 1514        |
-| Chennai Super Kings        | 69       | 108      | 1386        |
+| Team                        | Total 6s | Total 4s | Total Runs |
+|-----------------------------|----------|----------|------------|
+| Royal Challengers Bangalore | 187      | 357      | 3975       |
+| Punjab Kings                | 196      | 314      | 3670       |
+| Gujarat Titans              | 137      | 287      | 3256       |
+| Mumbai Indians              | 151      | 269      | 3052       |
+| Sunrisers Hyderabad         | 142      | 225      | 2606       |
+| Delhi Capitals              | 125      | 201      | 2556       |
+| Lucknow Super Giants        | 116      | 208      | 2410       |
+| Kolkata Knight Riders       | 81       | 132      | 1639       |
+| Rajasthan Royals            | 77       | 121      | 1514       |
+| Chennai Super Kings         | 69       | 108      | 1386       |
 
-## 📊 Dashboard Preview
+## 🎥 Live Demo
 
-> (You can add a GIF, screenshots, or link to the Power BI dashboard here)
+Watch the video below to understand how the dashboard works and how to interact with different visuals and filters. 
+
+[▶ Watch Dashboard Demo](https://github.com/Parthadee/IPL-Analysis-2008-2025/blob/5f1c47fca94ff7504b8075783a58bbc1019add75/IPL%20Analysis%20(2008-2025).mp4)
 
 ## 🚀 Getting Started
 
 To explore the dashboard:
 
-1. Clone this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Ensure all CSVs are correctly loaded and mapped.
-4. Interact with filters and slicers to explore insights.
+1. Clone this repository  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Ensure all CSV files are properly loaded  
+4. Use slicers and filters to explore insights  
 
 ## 💡 Learnings & Skills Demonstrated
 
-- Power BI data modeling
-- DAX measures and calculated columns
-- Interactive dashboard design
-- Storytelling with data in sports analytics
-- Handling large datasets and performance optimization
+- Data modeling in Power BI  
+- Writing DAX measures and calculated columns  
+- Designing interactive dashboards  
+- Data storytelling in sports analytics  
+- Handling large datasets and optimizing performance  
 
 ## 🏁 Future Improvements
 
-- Add predictive modeling for future season outcomes
-- Integrate live IPL API for real-time updates
-- Build a web-based version using Power BI Embedded
-  
+- Add predictive analysis for upcoming seasons  
+- Integrate live IPL APIs for real-time updates  
+- Build a web version using Power BI Embedded  
